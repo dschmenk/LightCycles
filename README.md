@@ -6,7 +6,7 @@ Here is an unexpected discovery for the 40th anniversary of the launch of the Ap
 
 ![Cassette](cassette.jpg)
 
-The binary program  was copied onto a floppy and a simple loader (and updated init screen) was added to show off this gem from a bygone era (available here: https://github.com/dschmenk/LightCycles/blob/master/lightcycles.po). Enjoy what could have been,
+The binary program  was copied onto a floppy and a simple loader (and updated init screen) was added to show off this gem from a bygone era (available here: https://github.com/dschmenk/LightCycles/raw/master/lightcycles.po). Enjoy what could have been,
 
 The 8-Bit Bunch - April 1, 2017
 
