@@ -12,6 +12,10 @@ The 8-Bit Bunch - April 1, 2017
 
 P.S. If you notice keypresses aren’t being recognized, make sure CAPS LOCK is down - there was only upper case on the original Apple ][.
 
+# Source Code Update!
+
+The original developer has granted permission to post the source code for the game! I've updated the source to be compatible with modern tools for building in current environments - who still has a working PDP-10?
+
 ## How to build:
 
 LightCycles is built with the **acme** assembler (available here: http://acme-crossass.sourceforge.net). I use version 0.91. To build the binary, simply type:
