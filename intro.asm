@@ -36,7 +36,7 @@ INITGAME
 	LDX	#0
 	LDY	#20
 	JSR	PUTSXY
-	!TEXT	"/:::: PLAYER 1 ::::\/:::: PLAYER 2 ::::\", 0
+	!TEXT	"/:::: PLAYER 1 ::::\\/:::: PLAYER 2 ::::\\", 0
 	LDX	#0
 	LDY	#21
 	JSR	PUTSXY
@@ -48,7 +48,7 @@ INITGAME
 	LDX	#0
 	LDY	#23
 	JSR	PUTSXY
-	!TEXT	"\::::::::::::::::::/\::::::::::::::::::/", 0
+	!TEXT	"\\::::::::::::::::::/\\::::::::::::::::::/", 0
 ;*
 ;* Display initial setting screen
 ;*
